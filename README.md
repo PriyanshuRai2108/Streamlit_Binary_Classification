@@ -30,8 +30,8 @@ Welcome to the **Mushroom Classifier WebApp**! This interactive Streamlit app al
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/streamlit-mushroom-classifier.git
-cd streamlit-mushroom-classifier
+git clone https://github.com/PriyanshuRai2108/Streamlit_Binary_Classification.git
+cd Streamlit_Binary_Classification
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -72,5 +72,5 @@ streamlit run app.py
 
 Happy Coding! 🚀
 
-By- Tanmay Singh
+By- Priyanshu Rai
 ```
